@@ -2,7 +2,8 @@
 
 ## Day 1: Tip Calculator 💰
 
-![Tip Calculator Screenshot](link-to-your-image)
+
+<img src="img/screenshot-1.png" alt="Tip Calculator Screenshot" width="500"/>
 
 ---
 
