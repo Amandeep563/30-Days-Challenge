@@ -10,6 +10,16 @@
 
 <img src="img/screenshot-2.png" alt="stop watch img" width="500"/>
 
+## Day 3: Meme Generator
+
+
+<img src="img/screenshot-3.png" alt="stop watch img" width="500"/>
+
+## Day 4: TIC TAC TOE 
+
+
+<img src="img/screenshot-4.png" alt="stop watch img" width="500"/>
+
 ---
 
 Stay tuned for more updates as I progress through the challenge!
