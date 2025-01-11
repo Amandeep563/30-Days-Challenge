@@ -20,7 +20,10 @@
 
 <img src="img/screenshot-4.png" alt="stop watch img" width="500"/>
 
-## Day 5:
+## Day 5: Weather App
+
+<img src="img/screenshot-5.png" alt="stop watch img" width="500"/>
+
 
 
 
