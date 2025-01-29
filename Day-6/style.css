@@ -27,7 +27,10 @@ body {
     background-color: #fff;
 }
 
+
 /* Header styling */
+
+
 header {
     background-color: #333;
     color: #fff;
@@ -39,11 +42,15 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
 }
 
 nav .logo {
     font-size: 24px;
     font-weight: bold;
+    color: var(--primary-color)
 }
 
 nav .list {
@@ -51,6 +58,16 @@ nav .list {
     display: flex;
     gap: 20px;
     cursor: pointer;
+}
+
+nav .list a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+nav .list a:hover {
+    color: #007BFF;
 }
 
 .hero {
@@ -166,4 +183,18 @@ footer .social-icons a {
 
 .hero {
     animation: fadeIn 2.5s ease-in;
+}
+
+@media (max-width: 768px) {
+    .features {
+        grid-template-columns: 1fr;
+    }
+
+    .hero h1 {
+        font-size: 36px;
+    }
+
+    .hero p {
+        font-size: 16px;
+    }
 }
