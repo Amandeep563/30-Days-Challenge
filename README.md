@@ -24,7 +24,13 @@
 
 <img src="img/screenshot-5.png" alt="stop watch img" width="500"/>
 
+## Day 6: Web site
 
+<img src="img/scrennshot-6.png" alt="stop watch img" width="500"/>
+
+## Day 7: whack a mole
+
+<img src="img/screenshot-7.png" alt="stop watch img" width="500"/>
 
 
 
