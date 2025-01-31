@@ -4,7 +4,7 @@ let score = 0;
 let gameOver = false;
 let timeLeft = 30;
 let timer;
-let timerStarted = false; // ✅ Added: Prevent multiple timers
+let timerStarted = false; //  Added: Prevent multiple timers
 
 window.onload = function () {
   setGame();
